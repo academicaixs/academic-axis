@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBWju2eIoNiX38OFTFl-rvS27BMbNb2D3Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>227976573893</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.northwest.csis.Academic-axis</string>
+	<key>PROJECT_ID</key>
+	<string>academicaxis</string>
+	<key>STORAGE_BUCKET</key>
+	<string>academicaxis.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:227976573893:ios:ac54a3b5a3c3e20a7311ac</string>
+</dict>
+</plist>
