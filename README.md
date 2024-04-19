@@ -23,7 +23,9 @@ _____
 >	Trust the developer on the iOS device if prompted.
 
 >	Launch and test the application on the device.
-
+_____
+# Code for Data Cleaning
+> CommonVisualizationVC and ShowVisualizationVC View Controllers codes in SuperAdmin Folder used for data cleaning
 ------
 ## Contact info: 
 
